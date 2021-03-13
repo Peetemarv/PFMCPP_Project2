@@ -12,8 +12,7 @@ video: Chapter 2 - Part 3
 
  Purpose:  This project will teach you how to declare variables and free functions.  
  This will be the first project where the code you write will be compiled and you will be responsible for making sure it compiles before submitting it for review.
- 
- 
+  
  1) Write down the names of all of the primitives available in C++ (excluding wchar_t) here: 
  
  -int
@@ -24,8 +23,6 @@ video: Chapter 2 - Part 3
  -double
 
 
- 
- 
 2) for each primitive type, write out 3 variable declarations inside the variableDeclaration() function on line 59.
     a) give each variable declaration an initial value
         - just ignore wchar_t. you do not need to declare 3 variables of type 'wchar_t'
